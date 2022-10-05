@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9bd7a35e.css",
+    "main.js": "/static/js/main.eea764dc.js",
+    "static/media/Duro 2 horas, acto acto pide contacto -  Faraón Love Shady  [ Vídeo Oficial ].mp4": "/static/media/Duro 2 horas, acto acto pide contacto -  Faraón Love Shady  [ Vídeo Oficial ].f0e6410bc50084c69b5a.mp4",
+    "static/media/BGmain.jpg": "/static/media/BGmain.f16c2ada8769e989244c.jpg",
+    "static/media/cascada.JPG": "/static/media/cascada.5e92a687dd8585ac8f80.JPG",
+    "static/media/entradasalida.JPG": "/static/media/entradasalida.e2d7c0393d3a2ef7e43e.JPG",
+    "static/media/img1.jpg": "/static/media/img1.ad98f77a542421411df7.jpg",
+    "static/media/finesiimg.jpg": "/static/media/finesiimg.ba6902941603556ece39.jpg",
+    "index.html": "/index.html",
+    "main.9bd7a35e.css.map": "/static/css/main.9bd7a35e.css.map",
+    "main.eea764dc.js.map": "/static/js/main.eea764dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd7a35e.css",
+    "static/js/main.eea764dc.js"
+  ]
+}
