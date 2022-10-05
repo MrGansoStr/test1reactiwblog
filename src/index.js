@@ -10,10 +10,10 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <Router>
     <Header/>
+    <Lpageblog/>
     <Routes>
     <Route path='/blog' element={<Lpageblog/>}/>
     </Routes>
-
   </Router>
 );
 
