@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
 import { Mainimg } from './Mainimg'
 import { Introduction } from './Partes/Introduction'
 import { Videotutorials } from './Videotutorials'
@@ -25,7 +25,7 @@ export const Lpageblog = () => {
             <hr/>
             <ul className="text-left" style={{ listStyle: "none", paddingLeft: "3px" }}>
               Videos:
-              <a className="list-group-item" href="/blog"></a>
+              <a className="list-group-item" href="/blog">Otro link</a>
             </ul>
           </div>
         </div>
